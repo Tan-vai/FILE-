@@ -7,6 +7,6 @@ os.system('xdg-open https://facebook.com/abutanim.chowdury')
 
 os.system('git pull')
 
-import FILE
+import TAN
 
-FILE.login()
+TAN.login()
